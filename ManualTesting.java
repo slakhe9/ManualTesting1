@@ -11,6 +11,8 @@ public class ManualTesting {
                 System.out.println("what is regression testing");
                 System.out.println("what is retesting");
                 System.out.println("what are the software testing technique");
+        System.out.println("Hello");
+        
 
 
 
